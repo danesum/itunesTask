@@ -1,0 +1,1 @@
+To run tests please launch apps first using npm start on each folder

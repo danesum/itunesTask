@@ -1,0 +1,12 @@
+[
+  {
+    "name": "john smith",
+    "grades": { "english": 99, "math": 82, "science": 78 },
+    "details": {
+      "address": "1 example ave",
+      "email": "johnsmith@gmail.com",
+      "cell": "0821234567"
+    },
+    "enrolment": { "fee structure": "upfront", "accounts": "up to date" }
+  }
+]
